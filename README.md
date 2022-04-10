@@ -1,2 +1,2 @@
 # css-exercises
-Practice CSS
+Practice CSS from Odin Project.
